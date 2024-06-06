@@ -59,7 +59,9 @@
             this.panel4 = new System.Windows.Forms.Panel();
             this.btnSettings = new System.Windows.Forms.Button();
             this.panel10 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnPurchase = new System.Windows.Forms.Button();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.btnSales = new System.Windows.Forms.Button();
             this.sidebar.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.menuButton)).BeginInit();
@@ -74,6 +76,7 @@
             this.panel5.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel10.SuspendLayout();
+            this.panel12.SuspendLayout();
             this.SuspendLayout();
             // 
             // sidebarTimer
@@ -111,9 +114,10 @@
             this.sidebar.Controls.Add(this.HomeContainer);
             this.sidebar.Controls.Add(this.panel1);
             this.sidebar.Controls.Add(this.panel11);
+            this.sidebar.Controls.Add(this.panel10);
+            this.sidebar.Controls.Add(this.panel12);
             this.sidebar.Controls.Add(this.panel5);
             this.sidebar.Controls.Add(this.panel4);
-            this.sidebar.Controls.Add(this.panel10);
             this.sidebar.ForeColor = System.Drawing.Color.White;
             this.sidebar.Name = "sidebar";
             this.sidebar.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
@@ -275,15 +279,27 @@
             // 
             // panel10
             // 
-            this.panel10.Controls.Add(this.button1);
+            this.panel10.Controls.Add(this.btnPurchase);
             resources.ApplyResources(this.panel10, "panel10");
             this.panel10.Name = "panel10";
             // 
-            // button1
+            // btnPurchase
             // 
-            resources.ApplyResources(this.button1, "button1");
-            this.button1.Name = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            resources.ApplyResources(this.btnPurchase, "btnPurchase");
+            this.btnPurchase.Name = "btnPurchase";
+            this.btnPurchase.UseVisualStyleBackColor = true;
+            // 
+            // panel12
+            // 
+            this.panel12.Controls.Add(this.btnSales);
+            resources.ApplyResources(this.panel12, "panel12");
+            this.panel12.Name = "panel12";
+            // 
+            // btnSales
+            // 
+            resources.ApplyResources(this.btnSales, "btnSales");
+            this.btnSales.Name = "btnSales";
+            this.btnSales.UseVisualStyleBackColor = true;
             // 
             // frmAdmin
             // 
@@ -312,6 +328,7 @@
             this.panel5.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
             this.panel10.ResumeLayout(false);
+            this.panel12.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -345,10 +362,12 @@
         private System.Windows.Forms.Panel PnlFormLoader;
         private System.Windows.Forms.Label lblLoggedInUser;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel panel10;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Button DeaCust;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Button btnPurchase;
+        private System.Windows.Forms.Panel panel12;
+        private System.Windows.Forms.Button btnSales;
     }
 }
 

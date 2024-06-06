@@ -2439,7 +2439,7 @@
   <data name="DeaCust.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAAAT5JREFUSEvNlL1KQ0EQRjVYxBSKECwEm3RiYeNrWFvbWArGpxAR1MY3sPAdxJ/a
+        EAAACxABrSO9dQAAAT5JREFUSEvNlL1KQ0EQRjVYxBSKECwEm3RiYeNrWFvbWArGpxAR1MY3sPAdxJ/a
         ylIUrEREDQS0iMX1zO4Qlqs72d2k8MAhN9n5vklIbqb+HVVVtXBan04GCtfxHHsoHGBDj8eDoi38ltYa
         r7ipY2VQsIoDaYsgi1d0PB/CJ67G5kjH8yF84ztMLnQ8Hwn7DpNLHc+H8KHvMDnW8XwIX/sOkysdz4fw
         qe8wOdPxfAgvovzeY7zgso6XQYH1U5WzBcNZrYnDUBv7GPKFHwn2tcaGwScM2dUjOVvCTuDwXXP9qZdx
@@ -2507,6 +2507,168 @@
   <data name="&gt;&gt;panel11.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="btnPurchase.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnPurchase.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Garamond, 12pt</value>
+  </data>
+  <data name="btnPurchase.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAHXSURBVEhL7ZY9TsNAEIUDBUKIAnEAbkBBixIqKEJEQ8Ul
+        KOlDlVwATgAcAjoiBAWig4oIlJ+StIBEWN7svGy82hh7TRoQn/Qkz5t5s0psRyn9k4YxZgfqQz9FdtS4
+        NhsGpkWPa7NhYESbdm6Q6WpUoT0Z9Gd5mTz4EdqknRtkqlBHFgi0feDvQTfQKy13MMsAtDagJ6pCOwA9
+        C8sx8BrasgxpBwFcXkEtllI/SJ/c0540Z2GpoK5An9AHtA8tsBUEcNmCLllKPZA+GdCeNGdhqaA+Vds0
+        aTnoh18RQetYJyxHtAPYDw5uq23WaDnoC/J0VmnnBpltZi0js66lR902Cb0RHdq5QWby64Tr5OHeoQK8
+        nramQpdrFRhyeHCoAL8GTeNw2RF9q/4A+NhnkLy7eRlCJ4wHoJd6uzy4KBb3i5YE/rcPqAeHkqyz5YBX
+        1tYYthywMl9JDw4kKbPlgCc/pR5secDe0q65o5UOB6Nh3AFrHrq2TWMOaafDwWgYl/wStAvdig/kPV1m
+        Ox2djYfZGa0cz9CqXZyFzsfDuORfIPmKD6BF2tlguBCMF4d7omG8ONjxpqui6DNeHCy50F1RNBgvDpas
+        QOfQu2zMQP7UN6E5xn8bpdIXiSLw87BbZXQAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnPurchase.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btnPurchase.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPurchase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-8, -5</value>
+  </data>
+  <data name="btnPurchase.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>20, 0, 0, 0</value>
+  </data>
+  <data name="btnPurchase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>235, 59</value>
+  </data>
+  <data name="btnPurchase.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnPurchase.Text" xml:space="preserve">
+    <value>            Purchase</value>
+  </data>
+  <data name="btnPurchase.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnPurchase.Name" xml:space="preserve">
+    <value>btnPurchase</value>
+  </data>
+  <data name="&gt;&gt;btnPurchase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPurchase.Parent" xml:space="preserve">
+    <value>panel10</value>
+  </data>
+  <data name="&gt;&gt;btnPurchase.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="panel10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 280</value>
+  </data>
+  <data name="panel10.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>30, 0, 0, 0</value>
+  </data>
+  <data name="panel10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 49</value>
+  </data>
+  <data name="panel10.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel10.Name" xml:space="preserve">
+    <value>panel10</value>
+  </data>
+  <data name="&gt;&gt;panel10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel10.Parent" xml:space="preserve">
+    <value>sidebar</value>
+  </data>
+  <data name="&gt;&gt;panel10.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnSales.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnSales.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Garamond, 12pt</value>
+  </data>
+  <data name="btnSales.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIxSURBVEhL7ZY/SFVhGIevf5LEyEAcHMQINCqCwEFCKMha
+        ikIoaqgpqKmgIWipPRARhKSGaGqotaCGXN1KitpqiQgcgqIosT9fz+/7fudwT1fNrudWgw883Pu+5/d9
+        773Hc861ssZ/QwhhAHdjj1uNhUH78AVm/MAH2OdI+bD5AVzAxXiD5X97Nm3GV5pgTuEuPBerxE3Hy4NN
+        B9PeOXtRp/hzrBLvHS9Avx8vLWK/I0tD6CBWM4lHUKe/mnYvyaE3mg7VMOrI0hDakbI503gbt8cqMed4
+        Afqb8SzeUqiK3w8WBJ+kfGQML+CzWCXGHa2BY8cw+7PM+XXFg3UxfYhLatEH2OhoAfoX8Tt+w/M4gWJl
+        gwXhbXgPv2ol6INcw05swmZHlW3BKRSf8LD7fz44g0Xt2IOtrtfjXRxzvQHvo3iLg+oL3nfhFuxwqz7Y
+        oBtnMOMyZtfDcyz/qcamW/GlJsBj/JLeRh5hp6M59Oo/1YKFe/Bd3CKEO6jTfQL1/Nats865DtSp7XK9
+        qr/xSZyPy0O4ik0+pGPDfhuhzh4gE67rG8yCK6hvpSv7jNs59FpxPw65Xt1ggtrwelwSwkc85EMF6G+K
+        iRBmXdc/mJDu0YcxHsJr3OlDEeqjqMdiG5Y3WBA8jU+x160cerMoNLTcwYJwdqWOYP7TxmtjB2ewqLCY
+        18YMJqQfiBt43PVfG7zsYl4bNljPY92bA671763qbtdDrnXL/XofL7t2jX9ApfITSUStHu3zmoUAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="btnSales.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="btnSales.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSales.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-8, -5</value>
+  </data>
+  <data name="btnSales.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>20, 0, 0, 0</value>
+  </data>
+  <data name="btnSales.Size" type="System.Drawing.Size, System.Drawing">
+    <value>235, 59</value>
+  </data>
+  <data name="btnSales.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnSales.Text" xml:space="preserve">
+    <value>            Sales</value>
+  </data>
+  <data name="btnSales.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnSales.Name" xml:space="preserve">
+    <value>btnSales</value>
+  </data>
+  <data name="&gt;&gt;btnSales.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSales.Parent" xml:space="preserve">
+    <value>panel12</value>
+  </data>
+  <data name="&gt;&gt;btnSales.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="panel12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 335</value>
+  </data>
+  <data name="panel12.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>30, 0, 0, 0</value>
+  </data>
+  <data name="panel12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 49</value>
+  </data>
+  <data name="panel12.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel12.Name" xml:space="preserve">
+    <value>panel12</value>
+  </data>
+  <data name="&gt;&gt;panel12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel12.Parent" xml:space="preserve">
+    <value>sidebar</value>
+  </data>
+  <data name="&gt;&gt;panel12.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="btnAbout.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
@@ -2563,7 +2725,7 @@
     <value>0</value>
   </data>
   <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 280</value>
+    <value>3, 390</value>
   </data>
   <data name="panel5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>30, 0, 0, 0</value>
@@ -2584,7 +2746,7 @@
     <value>sidebar</value>
   </data>
   <data name="&gt;&gt;panel5.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>6</value>
   </data>
   <data name="btnSettings.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
@@ -2645,7 +2807,7 @@
     <value>0</value>
   </data>
   <data name="panel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 335</value>
+    <value>3, 445</value>
   </data>
   <data name="panel4.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>30, 0, 0, 0</value>
@@ -2666,89 +2828,7 @@
     <value>sidebar</value>
   </data>
   <data name="&gt;&gt;panel4.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Garamond, 12pt</value>
-  </data>
-  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DAAACwwBP0AiyAAAAkpJREFUWEftlz0vBFEYhTcUCqH1WUgkJBv7DxR6X43/oKSwq9Msnf+g9wPQkFCK
-        Rk10EiqfiY/mdc59z50sOzuGNRGJJznJ7HnPvXdm7r0zs6V//iRmdgV95ErlYsFAwz5eKkOKFQcGmfex
-        bEcWvV23bE5WcWCQTR/LNmTR23DLNmW1BzoagU6gNWhMXgU6giILIQx47FbgEKrIH4PYB/saCeE8ILwN
-        NXIKPfmhnUFLULfizHfLY40wyzaNbCueDYJTnrc7aAu6Cb/MXqEVqEPRJlhThlnCtuyDfZEpRdNBoBOK
-        Z16T1wVx4U2GUA6YVZsu/a5BhH13hlAaKC6GmF/BsOwmUJuB9qFH6EHH0yo3gRq3brwri7KbQXEcuggx
-        n89RlRLgrYdqOnXFEuCNQnFtsO9xldJBoA86ZhpcQ2EXEBzzyskzxLkekKrySHIncMxdwD4I++xTKRsE
-        uaov2QqUZdM/cMtWZCXAi/O8L4te2a3QV7JrcoEGt6GpWY8sepxv0i8rgZ6X7F4WvR637FZWftjI2747
-        gXu3bEBWArwhL9mdLHq9bn3xBNCg1RRwtZOqrAR4q15qcwoQzFqE08H1Bcc5H5Q4+AtEGhchd0D+RYhA
-        nm1YD9V02tuGKOZ9EPFOcDq4KH/0QfS7j2KCQNbLiA+cz15GHCxe7ddeRhEEs17H59Ay9PF1TI818v3X
-        MUG41QcJPzYiWR8kE/K/90GSBToq/pMsCwwy52PZrix6e27ZrKziwCDxkZvGoGLFgoF+74/JPz9LqfQG
-        zC3zDoNpNcoAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="button1.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-8, -5</value>
-  </data>
-  <data name="button1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>20, 0, 0, 0</value>
-  </data>
-  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>235, 59</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="button1.Text" xml:space="preserve">
-    <value>            Settings</value>
-  </data>
-  <data name="button1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
-  </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>panel10</value>
-  </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="panel10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 390</value>
-  </data>
-  <data name="panel10.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>30, 0, 0, 0</value>
-  </data>
-  <data name="panel10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 49</value>
-  </data>
-  <data name="panel10.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;panel10.Name" xml:space="preserve">
-    <value>panel10</value>
-  </data>
-  <data name="&gt;&gt;panel10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel10.Parent" xml:space="preserve">
-    <value>sidebar</value>
-  </data>
-  <data name="&gt;&gt;panel10.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="sidebar.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
@@ -2788,6 +2868,9 @@
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>1085, 571</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
